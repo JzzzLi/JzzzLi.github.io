@@ -23,6 +23,8 @@ Hello, I am Junzhe Li. Welcome to my homepage. I am currently a senior undergrad
 
 My research interests lie in the intersection of computer systems and security, with special focuses on building reliable and high-performance storage systems and using program analysis to locate vulnerabilities in deep learning systems. Click [here](/publications) to find more about my research.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my undergraduate, I am fortunate to be advised by [Prof. Jie Zhang](https://jiezhang-camel.github.io/) at Peking University. I am currently an intern of [Networking Research Group](https://www.microsoft.com/en-us/research/group/networking_research_group/) at [Microsoft Research Asia](https://www.msra.cn/), where I am fortunate to be working closely with [Ziyue Yang](https://www.microsoft.com/en-us/research/people/ziyyang/) and [Ran Shu](https://www.microsoft.com/en-us/research/people/rashu/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Starting from 2023 Fall, I will be honored to join the [HKUS3Lab](https://i.cs.hku.hk/~cqian/s3.html) of the [department of computer science](https://www.cs.hku.hk/) at [the University of Hong Kong](https://www.hku.hk) as a PhD student, advised by [Prof. Chenxiong Qian](https://i.cs.hku.hk/~cqian/) and co-advised by [Prof. Heming Cui](https://i.cs.hku.hk/~heming/).
+
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
