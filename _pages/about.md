@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://eecs.pku.edu.cn/'>Peking University, School of Electronics Engineering and Computer Science</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://pku.edu.cn/'>Peking University</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: selfie.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
