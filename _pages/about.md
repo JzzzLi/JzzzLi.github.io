@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='https://pku.edu.cn/'>Peking University</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='https://pku.edu.cn/'>Peking University</a>. School of Electronics Engineering and Computer Science.
 
 profile:
   align: right
   image: selfie.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Peking Univeristy</p>
+    <p>Haidian District, Yiheyuan Road No.5</p>
+    <p>Beijing, China</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
