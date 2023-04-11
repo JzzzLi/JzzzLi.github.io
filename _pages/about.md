@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://eecs.pku.edu.cn/'>Peking University, School of Electronics Engineering and Computer Science</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
