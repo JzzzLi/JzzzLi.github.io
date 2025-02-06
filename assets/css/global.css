@@ -59,6 +59,18 @@ div.lazy {
     min-height: 80px;
 }
 
+.badge-security {
+    font-size: 100%;
+    background-color: #af4c56; /* Replace with your desired color */
+    color: white; /* Text color */
+}
+
+.badge-system {
+    font-size: 100%;
+    background-color: #1075e8; /* Replace with your desired color */
+    color: white; /* Text color */
+}
+
 .badge-publication {
     font-size: 100%;
 }
