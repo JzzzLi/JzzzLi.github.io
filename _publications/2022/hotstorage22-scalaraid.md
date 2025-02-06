@@ -1,6 +1,6 @@
 ---
 title:          "[<strong>HotStorage'22</strong>] ScalaRAID: optimizing linux software RAID system for next-generation storage"
-date:           2022-01-01 00:00:00 +0800
+date:           2022-06-27 00:00:00 +0000
 selected:       false
 pub:            "Proceedings of the 14th ACM Workshop on Hot Topics in Storage and File Systems (HotStorage'22)"
 # pub_pre:        "Submitted to "
