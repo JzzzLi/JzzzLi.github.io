@@ -5,7 +5,7 @@ selected:       false
 pub:            "Proceedings of the 14th ACM Workshop on Hot Topics in Storage and File Systems (HotStorage'22)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-success badge-system">System</span>'
+pub_last:       ' <span class="badge badge-pill badge-success badge-system">System</span><span class="badge badge-pill badge-conference">Conference</span>'
 pub_date:       "2022"
 
 abstract: >-
@@ -22,4 +22,5 @@ authors:
   - Jie Zhang#
 links:
   Code: https://github.com/ChaseLab-PKU/ScalaRAID
+  Paper: assets/papers/scalaraid-hotstorage22.pdf
 ---

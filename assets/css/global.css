@@ -67,7 +67,25 @@ div.lazy {
 
 .badge-system {
     font-size: 100%;
-    background-color: #1075e8; /* Replace with your desired color */
+    background-color: #2E75B6; /* Replace with your desired color */
+    color: white; /* Text color */
+}
+
+.badge-software {
+    font-size: 100%;
+    background-color: #D60093 ; /* Replace with your desired color */
+    color: white; /* Text color */
+}
+
+.badge-journal {
+    font-size: 100%;
+    background-color: #E2C3D5; /* Replace with your desired color */
+    color: white; /* Text color */
+}
+
+.badge-conference {
+    font-size: 100%;
+    background-color: #FFD966; /* Replace with your desired color */
     color: white; /* Text color */
 }
 

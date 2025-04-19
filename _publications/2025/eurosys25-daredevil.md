@@ -2,10 +2,10 @@
 title:          "[<strong>EuroSys'25</strong>] Daredevil: Rescue Your Flash Storage from Inflexible Kernel Storage Stack"
 date:           2025-03-31 00:00:00 +0800
 selected:       true
-pub:            "The Twentieth European Conference on Computer Systems (EuroSys’25)"
+pub:            "The Twentieth European Conference on Computer Systems (EuroSys'25)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-system">System</span>'
+pub_last:       ' <span class="badge badge-pill badge-system">System</span><span class="badge badge-pill badge-conference">Conference</span>'
 pub_date:       "2025"
 
 abstract: >-
@@ -22,4 +22,5 @@ authors:
   - Chenxiong Qian#
 links:
   Code: https://github.com/HKU-System-Security-Lab/Daredevil
+  Paper: assets/papers/daredevil-eurosys25.pdf
 ---

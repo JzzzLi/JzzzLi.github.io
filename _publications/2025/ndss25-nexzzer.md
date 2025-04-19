@@ -5,7 +5,7 @@ selected:       true
 pub:            "Network and Distributed System Security Symposium (NDSS)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-security">Security</span>'
+pub_last:       ' <span class="badge badge-pill badge-security">Security</span><span class="badge badge-pill badge-conference">Conference</span>'
 pub_date:       "2025"
 
 abstract: >-
@@ -21,4 +21,5 @@ authors:
   - Chenxiong Qian#
 links:
   Code: https://figshare.com/s/9539927ac84ee6a7ac14
+  Paper: assets/papers/nexzzer-ndss25.pdf
 ---
