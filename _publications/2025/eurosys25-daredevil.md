@@ -23,4 +23,5 @@ authors:
 links:
   Code: https://github.com/HKU-System-Security-Lab/Daredevil
   Paper: assets/papers/daredevil-eurosys25.pdf
+  Slides: assets/slides/EuroSys'25-Daredevil.pdf
 ---

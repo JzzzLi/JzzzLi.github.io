@@ -9,7 +9,8 @@ pub_last:       ' <span class="badge badge-pill badge-software">Software</span><
 pub_date:       "2025"
 
 abstract: >-
-    We propose daredevil, a novel kernel storage stack, which addresses the multi-tenancy issue by decoupling the static bindings and allowing full connectivity between cores and NQs. In this way, Daredevil grants multi-tenancy control the flexibility to freely route requests among NQs according to their SLAs. Moreover, it incorporates multi-tenancy-aware scheduling on NQs to facilitate efficient request routing. Our evaluation shows that Daredevil can reduce I/O request latency by up to 3-170× compared to current kernel storage stacks, while maintaining comparable throughput.
+    We present WizardMerge, an auxiliary tool that leverages merging results from Git to retrieve code block dependency on text and LLVM-IR level and provide suggestions for developers to resolve errors introduced by textual merging. Through the evaluation, we subjected WizardMerge to testing on 227 conflicts within five large-scale projects. The outcomes demonstrate that WizardMerge diminishes conflict merging time costs, achieving a 23.85% reduction. Beyond addressing conflicts, WizardMerge provides merging suggestions for over 70% of the code blocks potentially affected by the conflicts. Notably, WizardMerge exhibits the capability to identify conflict-unrelated code blocks that require manual intervention yet are harmfully applied by Git during the merging.
+    
 cover:          /assets/images/covers/wizardmerge.png
 authors:
   - Qingyu Zhang
